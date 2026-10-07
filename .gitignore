@@ -1,0 +1,17 @@
+# Игнорируем папки сборки
+[Bb]in/
+[Oo]bj/
+
+# Игнорируем кэш Visual Studio
+.vs/
+*.user
+
+# Игнорируем локальные настройки
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Игнорируем файлы секретов (если есть)
+appsettings.json
+secrets.json
+
